@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,60:0f0f0f,100:C8F135&height=170&section=header&text=SOLO%20INDIE%20DEV&fontSize=42&fontColor=C8F135&fontAlignY=58&animation=fadeIn&desc=Philippe%20Godfroy%20%C2%B7%20Knokke-Heist%2C%20Belgium&descSize=14&descAlignY=78&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,60:0f0f0f,100:C8F135&height=170&section=header&text=SOLO%20INDIE%20DEV&fontSize=42&fontColor=C8F135&fontAlignY=58&animation=fadeIn&desc=Philippe%20Godfroy%20%C2%B7%20Bruges%20→%20Knokke-Heist%2C%20Belgium&descSize=14&descAlignY=78&descColor=aaaaaa" width="100%"/>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 I've been building software since ~2010 — completely self-taught, no CS degree, no bootcamp, no hand-holding. I build macOS and iOS applications that are live on real platforms, charging real users, with real infrastructure behind them.
 
-I build and ship software independently from Belgium. I simultaneously maintain **4 active software products** without a team, without VC money, without excuses.
+I build and ship software independently from Knokke-Heist, Belgium (originally from Bruges). I simultaneously maintain **4 active software products** without a team, without VC money, without excuses.
 
 ```
 ✅  4 active products — all simultaneously maintained
@@ -75,7 +75,7 @@ Built from scratch. Live on the Mac App Store. Charging users.
 
 `Swift` `AVFoundation` `StoreKit 2` `RevenueCat`
 
-**● LIVE** — Mac App Store
+**● LIVE** — [Mac App Store](https://apps.apple.com/app/mirrormate) · [mirrormateapp.com](https://mirrormateapp.com)
 
 - Native macOS camera access and real-time mirroring
 - Paid + subscription monetisation via StoreKit 2
@@ -93,7 +93,7 @@ Direct distribution. Shipping now.
 
 `Swift` `Carbon API` `UCKeyTranslate` `Accessibility API`
 
-**● SHIPPING** — Direct Distribution
+**● SHIPPING** — [clicktrackapp.com](https://clicktrackapp.com)
 
 - Global key event capture at OS level via Carbon API
 - Full AZERTY keyboard layout mapping (proper, not hacked)
@@ -142,6 +142,8 @@ Built with Olivier. 7-day trial funnel. Live with clients.
 </td>
 </tr>
 </table>
+
+> *This showcases current active products. More projects — past, completed, and in progress — are not listed here.*
 
 ---
 
@@ -245,6 +247,7 @@ Built with Olivier. 7-day trial funnel. Live with clients.
 ---
 name:            Philippe Godfroy
 handle:          phlppgdfry
+origin:          Bruges, Belgium
 location:        Knokke-Heist, Belgium
 coast:           North Sea
 building_since:  ~2010
