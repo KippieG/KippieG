@@ -207,7 +207,7 @@ Full product specification written as both product owner and lead developer. Cur
 # professional_background.yml
 ---
 current:
-  company:   Reviewell BV (own company)
+  company:   own IT company
   role:      Founder · Developer · Product Owner & BA
   since:     ~2020
   domain:    Software products — macOS, iOS, Web
@@ -286,7 +286,7 @@ education:  Self-directed — IT development · BA methodology · entrepreneursh
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-`Philippe Godfroy · Reviewell BV · Knokke-Heist, Belgium`
+`Philippe Godfroy · Knokke-Heist, Belgium 🇧🇪`
 
 *Not looking for just any role — looking for the right fit.*
 </div>
