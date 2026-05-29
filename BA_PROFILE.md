@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/Philippe_Godfroy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
 [![Email](https://img.shields.io/badge/philippe.godfroy@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:philippe.godfroy@hotmail.com)
 [![Website](https://img.shields.io/badge/philippegodfroy.com-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://philippegodfroy.com)
-[![Location](https://img.shields.io/badge/📍_Knokke--Heist,_Belgium-0d1117?style=for-the-badge)](https://maps.google.com/?q=Knokke-Heist)
+[![Location](https://img.shields.io/badge/📍_Brugge_→_Knokke--Heist-0d1117?style=for-the-badge)](https://maps.google.com/?q=Knokke-Heist)
 
 </div>
 
@@ -36,7 +36,7 @@ My edge over most BAs: I have both **business analysis discipline** and **real d
 ✅  Dutch (native) · French (fluent) · English (professional)
 ```
 
-> *"A good BA doesn't just document requirements — they make sure the right problem gets solved."*
+> *"A good Business Analyst doesn't just document requirements — they make sure the right problem gets solved."*
 
 ---
 
@@ -45,7 +45,7 @@ My edge over most BAs: I have both **business analysis discipline** and **real d
 ### 🥐 Breakfast Delivery Platform
 **E-commerce · AI Recommendation Engine · Last-Mile Logistics**
 
-Full BA engagement covering every layer of a breakfast delivery startup — from stakeholder discovery to implementation roadmap.
+Full Business Analyst engagement covering every layer of a breakfast delivery startup — from stakeholder discovery to implementation roadmap.
 
 | Deliverable | Description |
 |---|---|
@@ -110,6 +110,8 @@ Full product specification written as both product owner and lead developer. Cur
 | **Trial Funnel Spec** | 7-day trial onboarding with automation logic, conversion events, and fallback flows |
 
 `User Stories` `Agile` `MoSCoW` `Wireframing` `Product Roadmap` `Data Modeling` `Supabase`
+
+> *A selection of portfolio work — more projects and engagements exist beyond what is shown here.*
 
 ---
 
@@ -178,7 +180,7 @@ Full product specification written as both product owner and lead developer. Cur
 - Turn vague goals into implementable, testable requirements
 - Facilitate discovery with both technical and non-technical stakeholders
 - BPMN process models that engineers can work from on day one
-- Acceptance criteria that close the loop between BA and QA
+- Acceptance criteria that close the loop between analysis and QA
 - Business cases with real numbers — not "adds value" statements
 - Identify root causes, not just surface-level symptoms
 - Write documentation that survives team changes
@@ -199,46 +201,6 @@ Full product specification written as both product owner and lead developer. Cur
 </tr>
 </table>
 
----
-
-## 🏢 Professional Background
-
-```yaml
-# professional_background.yml
----
-current:
-  company:   own IT company
-  role:      Founder · Developer · Product Owner & BA
-  since:     ~2020
-  domain:    Software products — macOS, iOS, Web
-
-experience:
-  - company:  Huswell BV
-    role:     Account Manager
-    domain:   Short-term rental management (B2B)
-    acquired: Client relationship management · SLA management
-              Process optimisation · Operations coordination
-              Stakeholder communication · Service escalation handling
-
-  - company:  Louis Vuitton
-    role:     Stock Controller
-    domain:   Luxury retail
-    acquired: Inventory management · Compliance procedures
-              Reporting and reconciliation · Process adherence
-
-  - company:  PhilPhone VoF
-    role:     Founder & Lead Technician
-    domain:   Mobile device repair (B2C)
-    acquired: Business operations · Customer management
-              Technical troubleshooting · End-to-end service delivery
-
-languages:
-  Dutch:    native
-  French:   fluent
-  English:  professional
-
-education:  Self-directed — IT development · BA methodology · entrepreneurship
-```
 
 ---
 
@@ -248,7 +210,7 @@ education:  Self-directed — IT development · BA methodology · entrepreneursh
 - **Oracle APEX** — enterprise application platform used in large organisations
 - **EDI systems** — electronic data interchange in supply chain and logistics
 - **Process mining** — data-driven process analysis and conformance checking
-- **Automation scripting** — Python tools to make BA workflows faster and repeatable
+- **Automation scripting** — Python tools to make Business Analyst workflows faster and repeatable
 
 ---
 
@@ -268,10 +230,10 @@ education:  Self-directed — IT development · BA methodology · entrepreneursh
 
 ## 📫 Open To
 
-- **Business Analyst** or Technical BA roles
+- **Business Analyst** or Technical Business Analyst roles
 - **Product Owner / Product Manager** positions
-- **Freelance BA consulting** — discovery, requirements, process improvement
-- **Hybrid IT + BA roles** — where both technical depth and business understanding matter
+- **Freelance Business Analyst consulting** — discovery, requirements, process improvement
+- **Hybrid IT + Business Analyst roles** — where both technical depth and business understanding matter
 
 <div align="center">
 
@@ -286,7 +248,7 @@ education:  Self-directed — IT development · BA methodology · entrepreneursh
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-`Philippe Godfroy · Knokke-Heist, Belgium 🇧🇪`
+`Brugge → Knokke-Heist, Belgium 🇧🇪`
 
 *Not looking for just any role — looking for the right fit.*
 </div>
