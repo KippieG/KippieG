@@ -25,7 +25,7 @@
 
 I'm **Philippe Godfroy** — a self-taught IT developer and entrepreneur based in **Knokke-Heist, Belgium**. Since ~2010 I've been building software across Apple platforms, web, backend, data, and business analysis — entirely self-directed, no CS degree, no shortcuts.
 
-I run **Reviewell BV** (BTW BE 1012.058.705) and simultaneously maintain 4 active software products across macOS and iOS. I combine a technical builder's mindset with business analysis skills and real-world commercial experience — which means I understand both what needs to be built and how to make it work for a business.
+I build and ship my own software products across macOS and iOS, working independently. I combine a technical builder's mindset with business analysis skills and real-world commercial experience — which means I understand both what needs to be built and how to make it work for a business.
 
 > **I don't just know the theory. I've shipped the product.**
 
@@ -173,7 +173,7 @@ I run **Reviewell BV** (BTW BE 1012.058.705) and simultaneously maintain 4 activ
 # career_timeline.yml
 ---
 2020 → now:
-  company:  Reviewell BV
+  company:  own IT company
   role:     Founder & Lead Developer
   what:     Building and shipping macOS + iOS software products
             independently. Full ownership of code, product, ops,
@@ -252,7 +252,7 @@ languages:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-`Philippe Godfroy · Reviewell BV · BE 1012.058.705 · Knokke-Heist, Belgium`
+`Philippe Godfroy · Knokke-Heist, Belgium 🇧🇪`
 
 *Available for the right opportunity — not looking for just any job, looking for the right fit.*
 </div>
