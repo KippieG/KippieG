@@ -313,7 +313,7 @@ For technical collaborations, product partnerships, iOS/macOS consulting, or the
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
-[![Email](https://img.shields.io/badge/philippe@reviewell.be-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe@reviewell.be)
+[![Email](https://img.shields.io/badge/philippe.godfroy@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe.godfroy@hotmail.com)
 [![Website](https://img.shields.io/badge/philippegodfroy.com-C8F135?style=for-the-badge&labelColor=060608)](https://philippegodfroy.com)
 
 </div>
