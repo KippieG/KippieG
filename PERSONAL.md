@@ -27,15 +27,12 @@ This is the non-pitch version. No products, no tech stack badges, no "open to op
 ## 📍 Where I'm From
 
 ```
-Country:    Belgium 🇧🇪
-Region:     West Flanders (West-Vlaanderen)
-City:       Knokke-Heist
-Coast:      North Sea
-Population: ~35,000
-Vibe:       Small, quiet, close to the water — and I wouldn't trade it
+Origin:     Bruges (Brugge), West Flanders 🇧🇪
+Now:        Knokke-Heist — North Sea coast
+Distance:   ~20 km apart, completely different energy
 ```
 
-Knokke-Heist is a coastal town that most Belgians know for summer. I know it year-round. The off-season is when it's actually good — empty beaches, wind on the water, and a pace of life that makes sense.
+Bruges is medieval canals, tourists, and architecture. Knokke-Heist is sand dunes, wind, and the North Sea. I moved for the coast. The off-season is when it's actually good — empty beaches, wind on the water, and a pace of life that makes sense.
 
 ---
 
