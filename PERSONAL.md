@@ -91,7 +91,7 @@ This profile isn't really for professional contact — that's what [LinkedIn](ht
 
 But if you just want to talk — golf, kitesurfing, building things, living on the coast, whatever — feel free.
 
-[![Email](https://img.shields.io/badge/philippe@reviewell.be-0d1117?style=flat-square&logo=gmail&logoColor=95d5b2)](mailto:philippe@reviewell.be)
+[![Email](https://img.shields.io/badge/philippe.godfroy@hotmail.com-0d1117?style=flat-square&logo=gmail&logoColor=95d5b2)](mailto:philippe.godfroy@hotmail.com)
 
 ---
 
