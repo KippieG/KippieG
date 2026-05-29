@@ -1,51 +1,61 @@
+<!--
+  ██████╗ ██╗  ██╗██╗     ██╗██████╗ ██████╗ ██████╗     ██████╗ ██████╗ ███████╗██████╗  ██████╗ ██╗   ██╗
+  ██╔══██╗██║  ██║██║     ██║██╔══██╗██╔══██╗██╔════╝    ██╔════╝██╔═══██╗██╔════╝██╔══██╗██╔═══██╗╚██╗ ██╔╝
+  ██████╔╝███████║██║     ██║██████╔╝██████╔╝█████╗      ██║  ███╗██║   ██║█████╗  ██║  ██║██████╔╝ ╚████╔╝ 
+  ██╔═══╝ ██╔══██║██║     ██║██╔═══╝ ██╔═══╝ ██╔══╝      ██║   ██║██║   ██║██╔══╝  ██║  ██║██╔══██╗  ╚██╔╝  
+  ██║     ██║  ██║███████╗██║██║     ██║     ███████╗    ╚██████╔╝╚██████╔╝███████╗██████╔╝██║  ██║   ██║   
+  ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝     ╚══════╝     ╚═════╝  ╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+-->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8F135&height=140&section=header&text=INDIE+DEV+PROFILE&fontSize=32&fontColor=060608&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,50:1a1a1a,100:C8F135&height=160&section=header&text=PHILIPPE%20GODFROY&fontSize=38&fontColor=C8F135&fontAlignY=60&animation=fadeIn&desc=Solo%20Indie%20Developer%20%E2%80%94%20Reviewell%20BV&descSize=15&descAlignY=80&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Back](https://img.shields.io/badge/←_BACK_TO_PROFILE-060608?style=for-the-badge&labelColor=C8F135&color=060608)](./README.md)
+[![Back](https://img.shields.io/badge/←_MAIN_PROFILE-0d0d0d?style=flat-square&labelColor=C8F135&color=0d0d0d)](./README.md)
 
-# `PHILIPPE GODFROY — INDIE DEVELOPER`
+<br/>
 
-### ⚡ Builder. Not a hobbyist. I ship real products that charge real money to real users.
-### While you're planning your MVP, I'm already in App Review.
+```
+BUILDER · NOT A HOBBYIST · I SHIP PRODUCTS THAT CHARGE REAL MONEY TO REAL USERS
+```
 
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-LOCKED__IN-C8F135?style=for-the-badge&labelColor=060608)
 ![Mode](https://img.shields.io/badge/MODE-BUILDING-FF2D55?style=for-the-badge&labelColor=060608)
-![Location](https://img.shields.io/badge/📍-Knokke--Heist,_BE-00E5FF?style=for-the-badge&labelColor=060608)
-![Company](https://img.shields.io/badge/🏢-Reviewell_BV-ffffff?style=for-the-badge&labelColor=060608)
+![Funding](https://img.shields.io/badge/FUNDING-€0_BOOTSTRAPPED-00E5FF?style=for-the-badge&labelColor=060608)
+![Products](https://img.shields.io/badge/ACTIVE_PRODUCTS-4-ffffff?style=for-the-badge&labelColor=060608)
 
 </div>
 
 ---
 
-## ⚡ Who am I?
+## ⚡ Operating Principle
 
-I've been building software since around 2010 — completely self-taught, no CS degree, no bootcamp, no hand-holding. I build macOS and iOS applications that are live on real platforms, charging real users, with real infrastructure behind them.
+I've been building software since ~2010. Completely self-taught. No CS degree, no bootcamp, no investor deck, no co-founder with a bigger network.
 
-I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium. I simultaneously maintain **4 active software products** — without a team, without VC money, without excuses.
+I built everything here from scratch — macOS and iOS apps on real platforms, with real users, real payment logic, and real infrastructure — through **Reviewell BV**, my own company in Belgium.
 
 ```
-✅ 100% bootstrapped — no investors, no grants, no debt
-✅ Products that charge real money to real users
-✅ End-to-end ownership: dev, UX, monetisation, App Store, infra
-✅ From idea to shipped without waiting for the "right moment"
-✅ Self-directed learner — I've taught myself everything on this page
+✅  4 active products, all simultaneously maintained
+✅  €0 external funding — bootstrapped entirely
+✅  End-to-end ownership: code · UX · monetisation · App Store · infra
+✅  Self-taught everything on this page since age ~14
+✅  Build first. Refine later. Ship always.
 ```
 
 ---
 
-## 🔢 Output Metrics
+## 🔢 Numbers
 
 <div align="center">
 
-| 🟢 Active Products | 🔴 External Funding | 🔵 Years Building | ⚡ Vision |
-|:---:|:---:|:---:|:---:|
-| **4** | **€0** | **~15** | **∞** |
-| simultaneously | bootstrapped | autodidact | non-negotiable |
+| 🟢 Active Products | 🔴 External Funding | 🔵 Building Since | ⚡ Method | 🏢 Entity |
+|:---:|:---:|:---:|:---:|:---:|
+| **4** | **€0** | **~2010** | **Autodidact** | **Reviewell BV** |
+| simultaneously | bootstrapped | 15+ years | self-directed | BE 1012.058.705 |
 
 </div>
 
@@ -58,31 +68,35 @@ I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium
 <td width="50%" valign="top">
 
 ### 🟢 MirrorMate
-> **The cleanest camera mirror app for macOS. Built from scratch. On the App Store. Charging money.**
+**The cleanest camera mirror app for macOS.**
+
+> Built from scratch. Live on the App Store. Charging users.
 
 `Swift` `AVFoundation` `StoreKit 2` `RevenueCat`
 
 **● LIVE** — Mac App Store
 
-- Full camera access and mirroring
-- Native macOS design and performance
-- Paid + subscription monetisation via StoreKit 2
-- RevenueCat integration for real analytics
+- Native macOS camera access and real-time mirroring
+- Paid + subscription via StoreKit 2
+- RevenueCat analytics and paywall management
+- Minimal, native macOS design — no Electron, no bloat
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟡 ClickTrack
-> **Precision macOS input tracker. Full AZERTY support, real-time stats. No bloat.**
+**Precision macOS input tracker. No bloat. Full AZERTY.**
+
+> Direct distribution. Shipping now.
 
 `Swift` `Carbon API` `UCKeyTranslate` `Accessibility API`
 
 **● SHIPPING** — Direct Distribution
 
-- Global key event capture at OS level
-- Full AZERTY keyboard mapping (no hacks)
-- Real-time input statistics
-- Lightweight, zero background drain
+- Global key event capture at OS level via Carbon API
+- Full AZERTY keyboard layout mapping (proper, not hacked)
+- Real-time keystroke and mouse statistics
+- Zero background resource drain
 
 </td>
 </tr>
@@ -90,31 +104,35 @@ I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium
 <td width="50%" valign="top">
 
 ### 🔵 FYESTO
-> **Event discovery iOS app. Pre/during/post event lifecycle. Real-time social layer. What if going out didn't suck.**
+**Event discovery for iOS. Pre · during · post.**
 
-`SwiftUI` `Supabase` `Realtime` `MapKit`
+> What if going out didn't suck. Real-time social layer.
+
+`SwiftUI` `Supabase` `Realtime` `MapKit` `Push Notifications`
 
 **● IN DEVELOPMENT** — iOS
 
-- Full event lifecycle: discover → attend → share
-- Real-time social features via Supabase Realtime
-- Map-based discovery with MapKit
-- Native SwiftUI throughout
+- Full event lifecycle: discover → check-in → share
+- Real-time social features via Supabase Realtime channels
+- Map-based discovery with MapKit integration
+- Native SwiftUI throughout — no UIKit fallbacks
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔴 GymLabb
-> **Full coaching OS. Training + Nutrition + Automation. 7-day trial funnel. Built with Olivier.**
+**Full coaching OS. Training + Nutrition + Automation.**
 
-`Python` `Supabase` `Everfit` `Automation`
+> Built with Olivier. 7-day trial funnel. Live with clients.
 
-**● BETA** — Live
+`Python` `Supabase` `Everfit` `Automation` `Webhooks`
 
-- End-to-end coaching platform
-- Training + nutrition management
-- Automated client onboarding
-- Live with paying clients in beta
+**● BETA** — Web / API
+
+- End-to-end coaching platform for fitness coaches
+- Training + nutrition tracking and automation
+- Client onboarding funnel with 7-day trial
+- Live with paying clients in beta stage
 
 </td>
 </tr>
@@ -125,16 +143,19 @@ I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium
 ## 🧬 Manifesto
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   I DON'T WAIT FOR THE RIGHT MOMENT.                 ║
-║   I BUILD THE MOMENT.                                ║
-║                                                      ║
-║   "Build things that feel inevitable in 5 years."    ║
-║                                                      ║
-║   — Not a vibe. An operating principle.              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   I DON'T WAIT FOR THE RIGHT MOMENT.                         ║
+║   I BUILD THE MOMENT.                                        ║
+║                                                              ║
+║   "Build things that feel inevitable in 5 years."            ║
+║                                                              ║
+║   — Not a vibe. An operating principle.                      ║
+║                                                              ║
+║   Ship. Learn. Iterate. Don't pitch. Don't plan forever.     ║
+║   Build something real and let that speak.                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -151,14 +172,13 @@ I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium
 ![StoreKit](https://img.shields.io/badge/StoreKit_2-C8F135?style=flat-square&logo=apple&logoColor=black)
 ![MapKit](https://img.shields.io/badge/MapKit-0070C9?style=flat-square&logo=apple&logoColor=white)
 ![Carbon API](https://img.shields.io/badge/Carbon_API-555555?style=flat-square&logo=apple&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility_API-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Backend & Infrastructure**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -169,60 +189,65 @@ I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
 ![StoreKit](https://img.shields.io/badge/StoreKit_2-34C759?style=flat-square&logo=apple&logoColor=white)
 
-**Tooling & Workflow**
+**AI Integration (Active)**
+
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![CoreML](https://img.shields.io/badge/Core_ML-FA7343?style=flat-square&logo=apple&logoColor=white)
+
+**Tooling**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Currently Integrating**
-
-![CoreML](https://img.shields.io/badge/Core_ML-FA7343?style=flat-square&logo=apple&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
 ## 🖥️ System Status
 
 ```yaml
-# ~/philippe.godfroy.yml
+# ~/phlpp.gdfry.yml
 ---
-identity:        indie_dev
-company:         Reviewell BV (BE 1012.058.705)
+name:            Philippe Godfroy
+handle:          phlppgdfry
+company:         Reviewell BV
+vat:             BE 1012.058.705
 location:        Knokke-Heist, Belgium
 building_since:  ~2010
 method:          100% autodidact
 
-languages:
-  - Dutch:    native
-  - French:   fluent
-  - English:  professional
+stack_primary:   Swift / SwiftUI
+stack_secondary: Python · Supabase · React
+currently_into:  AI integration · CoreML · LLM APIs
 
-focus:           LOCKED_IN
-mode:            BUILDING ▌
+status:          BUILDING ▌
 sleep:           optional
 bugs:            unavoidable
-vision:          ENORMOUS
+funding:         ZERO (bootstrapped)
+vision:          enormous
+
+languages_spoken:
+  Dutch:    native
+  French:   fluent
+  English:  professional
 
 open_to:
-  - right_opportunities_only
-  - technical_collaborations
-  - product_partnerships
+  - right_collaborations
+  - technical_partnerships
+  - the_right_opportunity
 
-hobbies:
-  - golf_hcp:  ~7
-  - kitesurfing
-  - chess
-  - shipping_things
+not_open_to:
+  - agencies
+  - "great exposure" offers
+  - slow_movers
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -230,93 +255,75 @@ hobbies:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KippieG&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=060608&title_color=C8F135&text_color=f0ede6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KippieG&theme=dark&hide_border=true&background=060608&stroke=C8F135&ring=C8F135&fire=FF2D55&currStreakLabel=C8F135&sideLabels=C8F135)
+![GitHub Streak](https://streak-stats.demolab.com?user=KippieG&theme=dark&hide_border=true&background=060608&stroke=C8F135&ring=C8F135&fire=FF2D55&currStreakLabel=C8F135&sideLabels=C8F135&dates=888888)
 
 </div>
 
 ---
 
-## 📚 Curriculum — Who I Actually Learn From
+## 📚 Who I Actually Learn From
 
-> The GitHub accounts I follow and trust. This is my actual university.
+> My real GitHub curriculum — the people and orgs that shaped what I know.
 
-### 🤖 AI & Machine Learning
-| Profile | Why |
+### 🤖 AI / Machine Learning
+| | Why |
 |---|---|
-| [karpathy](https://github.com/karpathy) | Best AI educator alive |
-| [openai](https://github.com/openai) | Where AI innovation ships |
-| [anthropics](https://github.com/anthropics) | Safety-first frontier AI (Claude) |
+| [karpathy](https://github.com/karpathy) | Best AI educator alive. nanoGPT, micrograd — essential. |
+| [anthropics](https://github.com/anthropics) | Safety-first frontier AI — Claude. Daily driver. |
+| [openai](https://github.com/openai) | Where applied AI innovation ships |
 | [huggingface](https://github.com/huggingface) | Open-source AI ecosystem |
-| [langchain-ai](https://github.com/langchain-ai) | Building AI agents |
+| [ollama](https://github.com/ollama) | Local AI on Mac — runs on my machine daily |
+| [langchain-ai](https://github.com/langchain-ai) | Agent and chain patterns |
 | [mistralai](https://github.com/mistralai) | European frontier models |
-| [ollama](https://github.com/ollama) | Local AI on Mac — daily driver |
 
-### 🍎 Apple / Swift / macOS
-| Profile | Why |
+### 🍎 Apple / Swift
+| | Why |
 |---|---|
-| [twostraws](https://github.com/twostraws) | Paul Hudson — best Swift teacher on the planet |
-| [JohnSundell](https://github.com/JohnSundell) | iOS architecture and Swift patterns |
-| [pointfreeco](https://github.com/pointfreeco) | Advanced Swift, composable architecture |
+| [twostraws](https://github.com/twostraws) | Paul Hudson — best Swift teacher alive |
+| [JohnSundell](https://github.com/JohnSundell) | iOS architecture patterns |
+| [pointfreeco](https://github.com/pointfreeco) | Composable Architecture, advanced Swift |
 | [apple](https://github.com/apple) | The source of truth |
-| [sindresorhus](https://github.com/sindresorhus) | macOS productivity legend |
-| [raycast](https://github.com/raycast) | Mac productivity tooling done right |
-| [Homebrew](https://github.com/Homebrew) | Mac package management |
+| [sindresorhus](https://github.com/sindresorhus) | macOS productivity done right |
+| [raycast](https://github.com/raycast) | Best macOS productivity tooling |
 
-### 🌐 Web / Backend / SaaS
-| Profile | Why |
+### 🌐 Backend / SaaS / Infra
+| | Why |
 |---|---|
-| [supabase](https://github.com/supabase) | My primary BaaS — use it daily |
+| [supabase](https://github.com/supabase) | My primary BaaS — use it in every product |
 | [vercel](https://github.com/vercel) | Frontend deployment and DX |
-| [stripe](https://github.com/stripe) | Payments infrastructure done right |
-| [cloudflare](https://github.com/cloudflare) | Edge computing and security |
-| [docker](https://github.com/docker) | Container fundamentals |
-| [calcom](https://github.com/calcom) | Open-source SaaS example |
-| [appwrite](https://github.com/appwrite) | Alternative BaaS architecture |
-| [coollabsio/coolify](https://github.com/coollabsio/coolify) | Self-hosted deployment |
+| [stripe](https://github.com/stripe) | Payment infrastructure done correctly |
+| [cloudflare](https://github.com/cloudflare) | Edge computing and DNS |
+| [calcom](https://github.com/calcom) | Open-source SaaS to learn from |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | Self-hosted deployment platform |
 
-### 🛠 Dev Tools
-| Profile | Why |
+### 🛠 Dev Tools / Security
+| | Why |
 |---|---|
 | [microsoft/vscode](https://github.com/microsoft/vscode) | Daily driver editor |
-| [neovim/neovim](https://github.com/neovim/neovim) | Power editing |
-| [github](https://github.com/github) | The platform itself |
-| [githubnext](https://github.com/githubnext) | Future of developer tooling |
-
-### 🔐 Security / Infra
-| Profile | Why |
-|---|---|
 | [OWASP](https://github.com/OWASP) | Web security standards |
-| [tailscale](https://github.com/tailscale) | Private networking made simple |
-| [hashicorp](https://github.com/hashicorp) | Infrastructure automation |
-| [trailofbits](https://github.com/trailofbits) | Security auditing |
+| [tailscale](https://github.com/tailscale) | Private networking, beautifully simple |
+| [hashicorp](https://github.com/hashicorp) | Infrastructure-as-code patterns |
 
 ---
 
 ## 📫 Contact
 
-Open to conversations about:
-
-- ✅ **Technical collaborations** — co-building products
-- ✅ **Product partnerships** — if you have the idea, I can build it
-- ✅ **iOS / macOS consulting** — App Store strategy, Swift architecture
-- ✅ **SaaS tooling** — backend, automation, integration work
+For technical collaborations, product partnerships, iOS/macOS consulting, or the right full-time opportunity:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe@reviewell.be)
-[![Website](https://img.shields.io/badge/Visit_My_Website-C8F135?style=for-the-badge&labelColor=060608)](https://philippegodfroy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
+[![Email](https://img.shields.io/badge/philippe@reviewell.be-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe@reviewell.be)
+[![Website](https://img.shields.io/badge/philippegodfroy.com-C8F135?style=for-the-badge&labelColor=060608)](https://philippegodfroy.com)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8F135&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8F135,100:060608&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-**REVIEWELL BV · BTW BE 1012.058.705 · KNOKKE-HEIST, BELGIUM**
+`Reviewell BV · BE 1012.058.705 · Knokke-Heist, Belgium`
 
-*⚡ Built different. Shipped for real. No shortcuts.*
-
-*© 2026 · Made with rage and coffee*
+*Built different. Shipped for real. No shortcuts. © 2026*
 </div>
