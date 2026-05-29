@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Philippe_Godfroy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
-[![Email](https://img.shields.io/badge/philippe@reviewell.be-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe@reviewell.be)
+[![Email](https://img.shields.io/badge/philippe.godfroy@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe.godfroy@hotmail.com)
 [![Website](https://img.shields.io/badge/philippegodfroy.com-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://philippegodfroy.com)
 [![Location](https://img.shields.io/badge/📍_Knokke--Heist,_Belgium-0d1117?style=for-the-badge)](https://maps.google.com/?q=Knokke-Heist)
 
@@ -238,7 +238,7 @@ languages:
 <div align="center">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
-[![Send an Email](https://img.shields.io/badge/philippe@reviewell.be-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe@reviewell.be)
+[![Send an Email](https://img.shields.io/badge/philippe.godfroy@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philippe.godfroy@hotmail.com)
 [![Visit Website](https://img.shields.io/badge/philippegodfroy.com-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://philippegodfroy.com)
 
 </div>
