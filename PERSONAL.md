@@ -18,7 +18,7 @@
 
 I'm Philippe — or **Kippie**, if you know me.
 
-I'm from **Knokke-Heist**, a small coastal town in West Flanders, Belgium, right where the North Sea meets the Dutch border. I build software for a living through my company Reviewell BV — but this page has nothing to do with that.
+I'm from **Knokke-Heist**, a small coastal town in West Flanders, Belgium, right where the North Sea meets the Dutch border. I build software for a living through my company own IT company — but this page has nothing to do with that.
 
 This is the non-pitch version. No products, no tech stack badges, no "open to opportunities." Just who I am when I'm not staring at a screen.
 
