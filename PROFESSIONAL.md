@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/Philippe_Godfroy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-godfroy)
 [![Email](https://img.shields.io/badge/philippe.godfroy@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:philippe.godfroy@hotmail.com)
 [![Website](https://img.shields.io/badge/philippegodfroy.com-6e40c9?style=for-the-badge&logo=safari&logoColor=white)](https://philippegodfroy.com)
-[![Location](https://img.shields.io/badge/📍_Knokke--Heist,_Belgium-0d1117?style=for-the-badge)](https://maps.google.com/?q=Knokke-Heist)
+[![Location](https://img.shields.io/badge/📍_Brugge_→_Knokke--Heist-0d1117?style=for-the-badge)](https://maps.google.com/?q=Knokke-Heist)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 👋 Professional Summary
 
-I'm **Philippe Godfroy** — a self-taught IT developer and entrepreneur based in **Knokke-Heist, Belgium**. Since ~2010 I've been building software across Apple platforms, web, backend, data, and business analysis — entirely self-directed, no CS degree, no shortcuts.
+I'm **Philippe Godfroy** — a self-taught IT developer and entrepreneur based in **Knokke-Heist, Belgium** (originally from Bruges). Since ~2010 I've been building software across Apple platforms, web, backend, data, and business analysis — entirely self-directed, no CS degree, no shortcuts.
 
 I build and ship my own software products across macOS and iOS, working independently. I combine a technical builder's mindset with business analysis skills and real-world commercial experience — which means I understand both what needs to be built and how to make it work for a business.
 
@@ -165,6 +165,8 @@ I build and ship my own software products across macOS and iOS, working independ
 
 > Every product above has real users, real infrastructure, and real payment logic. None are demos.
 
+> *A selection — more projects and work exist beyond what is listed here.*
+
 ---
 
 ## 🏢 Work Experience
@@ -252,7 +254,9 @@ languages:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-`Philippe Godfroy · Knokke-Heist, Belgium 🇧🇪`
+`Brugge → Knokke-Heist, Belgium 🇧🇪`
 
-*Available for the right opportunity — not looking for just any job, looking for the right fit.*
+*Available for the right opportunity. Not looking for just any job — looking for the right fit.*
+
+*A selection of work is shown here — there is more.*
 </div>
