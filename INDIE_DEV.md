@@ -5,11 +5,11 @@
   ██╔═══╝ ██╔══██║██║██║     ██║██╔═══╝ ██╔═══╝ ██╔══╝
   ██║     ██║  ██║██║███████╗██║██║     ██║     ███████╗
   ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝╚═╝     ╚═╝     ╚══════╝
-  phlppgdfry · Reviewell BV · Knokke-Heist, BE
+  phlppgdfry · Knokke-Heist, BE
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,60:0f0f0f,100:C8F135&height=170&section=header&text=SOLO%20INDIE%20DEV&fontSize=42&fontColor=C8F135&fontAlignY=58&animation=fadeIn&desc=Philippe%20Godfroy%20%C2%B7%20Reviewell%20BV%20%C2%B7%20Knokke-Heist%2C%20Belgium&descSize=14&descAlignY=78&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,60:0f0f0f,100:C8F135&height=170&section=header&text=SOLO%20INDIE%20DEV&fontSize=42&fontColor=C8F135&fontAlignY=58&animation=fadeIn&desc=Philippe%20Godfroy%20%C2%B7%20Knokke-Heist%2C%20Belgium&descSize=14&descAlignY=78&descColor=aaaaaa" width="100%"/>
 </div>
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 I've been building software since ~2010 — completely self-taught, no CS degree, no bootcamp, no hand-holding. I build macOS and iOS applications that are live on real platforms, charging real users, with real infrastructure behind them.
 
-I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium. I simultaneously maintain **4 active software products** without a team, without VC money, without excuses.
+I build and ship software independently from Belgium. I simultaneously maintain **4 active software products** without a team, without VC money, without excuses.
 
 ```
 ✅  4 active products — all simultaneously maintained
@@ -53,10 +53,10 @@ I run **Reviewell BV** (BTW BE 1012.058.705), my own IT company based in Belgium
 
 <div align="center">
 
-| 🟢 Active Products | 🔴 External Funding | 🔵 Building Since | ⚡ Method | 🏢 Entity |
-|:---:|:---:|:---:|:---:|:---:|
-| **4** | **€0** | **~2010** | **Autodidact** | **Reviewell BV** |
-| simultaneously | bootstrapped | 15+ years | self-directed | BE 1012.058.705 |
+| 🟢 Active Products | 🔴 External Funding | 🔵 Building Since | ⚡ Method |
+|:---:|:---:|:---:|:---:|
+| **4** | **€0** | **~2010** | **Autodidact** |
+| simultaneously | bootstrapped | 15+ years | self-directed |
 
 </div>
 
@@ -245,8 +245,6 @@ Built with Olivier. 7-day trial funnel. Live with clients.
 ---
 name:            Philippe Godfroy
 handle:          phlppgdfry
-company:         Reviewell BV
-vat:             BE 1012.058.705
 location:        Knokke-Heist, Belgium
 coast:           North Sea
 building_since:  ~2010
@@ -374,7 +372,7 @@ For technical collaborations, product partnerships, iOS/macOS consulting, or the
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8F135,100:060608&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-`Reviewell BV · BE 1012.058.705 · Knokke-Heist, Belgium`
+`Knokke-Heist, Belgium 🇧🇪`
 
 *Built different. Shipped for real. No shortcuts. © 2026*
 </div>
